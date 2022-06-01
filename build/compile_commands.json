@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jiale/Workspace/chip-8/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/chip-8/include  -o CMakeFiles/chip-8.dir/src/chip-8.cpp.o -c /home/jiale/Workspace/chip-8/src/chip-8.cpp",
+  "file": "/home/jiale/Workspace/chip-8/src/chip-8.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/chip-8/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/chip-8/include  -o CMakeFiles/chip-8.dir/src/main.cpp.o -c /home/jiale/Workspace/chip-8/src/main.cpp",
+  "file": "/home/jiale/Workspace/chip-8/src/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/jiale/Workspace/chip-8/build/CMakeFiles/chip-8.dir
+/home/jiale/Workspace/chip-8/build/CMakeFiles/edit_cache.dir
+/home/jiale/Workspace/chip-8/build/CMakeFiles/rebuild_cache.dir

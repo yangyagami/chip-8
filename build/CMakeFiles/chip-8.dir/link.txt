@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/chip-8.dir/src/chip-8.cpp.o" "CMakeFiles/chip-8.dir/src/main.cpp.o" -o chip-8  -lraylib 
