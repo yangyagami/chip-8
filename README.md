@@ -5,7 +5,7 @@
 
 # 使用
 ```
-https://github.com/yangyagami/chip-8.git
+git clone https://github.com/yangyagami/chip-8.git
 cd chip-8/build
 cmake ..
 make
